@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="ldhquiz"
+version="1.0.0"
+displayName="On thi Ly luan day hoc Tin hoc"
+description='''
+6 quyen sach, moi quyen la mot cau tu luan. Chuot phai de mo tro choi dien cum tu khoa vao nguyen van de cuong.
+'''
+
+[[dependencies.ldhquiz]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ldhquiz]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

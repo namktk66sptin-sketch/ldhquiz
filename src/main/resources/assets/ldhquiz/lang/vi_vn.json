@@ -1,0 +1,16 @@
+{
+ "itemGroup.ldhquiz": "Ôn thi LLDH Tin học",
+ "tooltip.ldhquiz.use": "Chuột phải để làm bài",
+ "item.ldhquiz.cau_1": "Sách Câu 1",
+ "tooltip.ldhquiz.cau_1": "Câu 1 · Khái niệm & đặc điểm PPDH",
+ "item.ldhquiz.cau_2": "Sách Câu 2",
+ "tooltip.ldhquiz.cau_2": "Câu 2 · 5 căn cứ phân bậc hoạt động",
+ "item.ldhquiz.cau_3": "Sách Câu 3",
+ "tooltip.ldhquiz.cau_3": "Câu 3 · 4 lưu ý PPDH truyền thống",
+ "item.ldhquiz.cau_4": "Sách Câu 4",
+ "tooltip.ldhquiz.cau_4": "Câu 4 · Mục tiêu bài học & 3 lưu ý",
+ "item.ldhquiz.cau_5": "Sách Câu 5",
+ "tooltip.ldhquiz.cau_5": "Câu 5 · Mục tiêu dạy Tin học phổ thông",
+ "item.ldhquiz.cau_6": "Sách Câu 6",
+ "tooltip.ldhquiz.cau_6": "Câu 6 · Vừa sức & yêu cầu phát triển"
+}

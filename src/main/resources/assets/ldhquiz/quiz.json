@@ -1,0 +1,87 @@
+[
+ {
+  "t": "Câu 1 · Khái niệm & đặc điểm PPDH",
+  "m": "3 đặc điểm = Thầy-trò · Khái quát · Tư tưởng",
+  "s": [
+   "## Khái niệm\nPhương pháp thường được hiểu là [[con đường]], hay cách thức để đạt được những [[mục tiêu]] nhất định. Phương pháp dạy học là cách thức [[hoạt động và giao lưu]] nào đó thể hiện một cách thức làm việc của [[người thầy]] trong quá trình dạy học.",
+   "## Các đặc điểm\nKhái niệm phương pháp dạy học như trên mang các đặc điểm sau đây:\nĐặc điểm thứ nhất là [[vai trò của hoạt động thầy và trò]]. Đây không phải là hai hoạt động [[song song độc lập]] với nhau. Hoạt động của thầy gây nên hoạt động của trò, như vậy hoạt động của thầy là một [[tác động điều khiển]]. Tuy nhiên tác động không phải chỉ mỗi hoạt động của thầy mà còn có sự [[giao lưu giữa thầy và trò]].",
+   "Đặc điểm thứ hai là [[tính khái quát của phương pháp]]. Phương pháp dạy học không phải là những [[hành động, giao lưu cụ thể, riêng lẻ]] của từng giáo viên trong từng tình huống nhất định mà là hình ảnh khái quát những hoạt động và giao lưu nào đó của người thầy. Hình ảnh này thường được hình thành từ [[những thành công của giáo viên]] và những [[thành tựu của khoa học giáo dục]]. Tính khái quát giúp phương pháp dạy học có thể [[vận dụng từ trường hợp này sang trường hợp khác]].",
+   "Đặc điểm thứ ba là [[chức năng phương tiện tư tưởng]] của phương pháp. Phương pháp dạy học là phương tiện để [[đạt mục tiêu dạy học]]. Cần phân biệt phương pháp dạy học với phương tiện dạy học theo nghĩa thông thường: phương pháp dạy học là [[phương tiện tư tưởng]], còn phương tiện dạy học là [[phương tiện vật chất]].",
+   "## Kết luận sư phạm\nTrong quá trình dạy học, giáo viên cần [[xác định rõ mục tiêu dạy học]], [[lựa chọn và vận dụng phương pháp phù hợp]] để tổ chức, điều khiển hoạt động học tập và giao lưu của học sinh. Đồng thời, cần phát huy [[tính tích cực, chủ động]] của học sinh, tăng cường [[sự tương tác giữa giáo viên và học sinh]], linh hoạt vận dụng phương pháp vào từng tình huống cụ thể nhằm nâng cao hiệu quả dạy học."
+  ]
+ },
+ {
+  "t": "Câu 2 · 5 căn cứ phân bậc hoạt động",
+  "m": "Phức – Trừu – Nội – Hợp – Chất (đối tượng phức tạp, trừu tượng, nội dung, phức hợp, chất lượng)",
+  "s": [
+   "## Khái niệm\nPhân bậc hoạt động là chia một hoạt động học tập thành các mức độ [[từ dễ đến khó]], [[từ đơn giản đến phức tạp]], để học sinh có thể thực hiện nhiệm vụ [[phù hợp với trình độ của mình]] và [[từng bước nâng cao năng lực]].",
+   "## Các căn cứ phân bậc hoạt động\n## Sự phức tạp của đối tượng hoạt động\nĐối tượng hoạt động [[càng phức tạp thì hoạt động đó càng khó thực hiện]]. Vì vậy có thể [[dựa vào sự phức tạp của đối tượng]] để phân bậc hoạt động",
+   "Vd: Khi cho học sinh luyện tập thiết kế giao diện website bằng [[html và css]], có thể phân bậc các hoạt động dựa vào [[sự phức tạp của các thành phần trên trang web]]. Chẳng hạn, hoạt động xây dựng 1 trang web [[chỉ có tiêu đề và đoạn văn]] là hoạt động ở bậc thấp hơn so với hoạt động xây dựng trang web có thêm [[hình ảnh, liên kết, bố cục, màu sắc, các hiệu ứng lớp giả]] và nhiều hơn thế nữa",
+   "## Sự trừu tượng, khái quát của đối tượng\nĐối tượng hoạt động càng trừu tượng, khái quát có nghĩa là [[yêu cầu thực hiện hoạt động càng cao]]. Cho nên có thể coi [[mức độ trừu tượng, khái quát của đối tượng]] là một căn cứ để phân bậc hoạt động",
+   "Vd: Khi dạy học sinh lập trình C++, có thể phân bậc hoạt động dựa vào mức độ trừu tượng, khái quát của đối tượng. Chẳng hạn, hoạt động viết chương trình [[tính diện tích hình chữ nhật]] khi biết chiều dài và chiều rộng là hoạt động ở bậc thấp hơn so với hoạt động xây dựng chương trình tính diện tích của nhiều loại hình khác nhau thông qua việc [[sử dụng các công thức tương ứng]]; hoạt động xây dựng một chương trình có khả năng tính diện tích cho nhiều hình khác nhau [[dựa trên một mô hình chung]] là hoạt động ở bậc cao hơn.",
+   "## Nội dung của hoạt động\nNội dung của hoạt động chủ yếu là [[những tri thức liên quan tới hoạt động]] và [[những điều kiện khác của hoạt động]]. Nội dung hoạt động [[càng gia tăng thì hoạt động càng khó thực hiện]], cho nên nội dung cũng là một căn cứ phân bậc hoạt động",
+   "Vd: Khi cho sinh viên thực hành lập trình C++, có thể phân bậc hoạt động dựa vào nội dung kiến thức cần vận dụng. Chẳng hạn, viết chương trình [[tính tổng hai số]] bằng các phép toán số học là hoạt động ở bậc thấp hơn so với viết chương trình [[giải phương trình bậc hai]], đòi hỏi sinh viên vận dụng kiến thức về [[câu lệnh điều kiện]], phép tính toán học và xử lý [[các trường hợp của biệt thức]].",
+   "## Sự phức hợp của hoạt động\nTa đã biết rằng [[hoạt động phức hợp bao gồm nhiều hoạt động thành phần]]. Gia tăng những thành phần này cũng có nghĩa là [[nâng cao yêu cầu đối với hoạt động]]",
+   "Vd: Khi cho sinh viên thực hành xây dựng website, có thể phân bậc hoạt động dựa vào sự phức hợp của hoạt động. Chẳng hạn, hoạt động tạo một [[trang web tĩnh bằng HTML]] là hoạt động ở bậc thấp hơn so với hoạt động xây dựng website có thêm các hoạt động thành phần như [[thiết kế giao diện bằng CSS]], [[xử lý sự kiện bằng JavaScript]], [[kiểm tra dữ liệu nhập vào và lưu trữ thông tin]].",
+   "## Chất lượng của hoạt động\nChất lượng của hoạt động thường là [[tính độc lập hoặc độ thành thạo]], cũng có thể lấy làm [[căn cứ để phân bậc hoạt động]]",
+   "Vd: Khi cho sinh viên thực hành lập trình C++, có thể phân bậc hoạt động dựa vào [[tính độc lập và độ thành thạo]] của sinh viên. Chẳng hạn, hoạt động viết chương trình [[theo hướng dẫn chi tiết của giáo viên]] là hoạt động ở bậc thấp hơn so với hoạt động [[tự viết chương trình dựa trên yêu cầu bài toán]]; hoạt động tự xây dựng chương trình, [[chủ động phát hiện và sửa lỗi]] một cách thành thạo là hoạt động ở bậc cao hơn."
+  ]
+ },
+ {
+  "t": "Câu 3 · 4 lưu ý PPDH truyền thống",
+  "m": "Chủ – Lời – Hình – Hành (chủ thể HS, lời nói chính xác, trực quan tượng trưng, thực hành)",
+  "s": [
+   "## Các lưu ý\nThứ nhất, có nhiều cách truyền thông tin cho học sinh như [[thuyết trình, vấn đáp, sử dụng phương tiện trực quan]],… Ta có thể tùy theo nội dung bài giảng hay điều kiện cụ thể mà có thể chọn những cách khác nhau, nhưng [[điều kiện quyết định kết quả học tập]] là hoạt động [[tự giác, tích cực, chủ động và sáng tạo]] của học sinh. Học sinh phải là [[chủ thể của quá trình học tập]]. Lời nói, câu hỏi của thầy, phương tiện nghe nhìn,… [[chỉ khơi dậy tính tự giác, chủ động học tập]] của học sinh",
+   "Ví dụ: Khi dạy bài “[[các câu lệnh lặp]]” trong lập trình, giáo viên không nên chỉ đọc lí thuyết, trình chiếu mẫu code lên lên bảng mà cần [[đặt câu hỏi gợi mở]] để học sinh phải [[tự suy luận ra vì sao phải dùng vòng lặp]](Ví dụ: làm thế nào để [[in ra màn hình 100 từ hello word]]! Mà không phải gõ cin,cout 100 lần ?)",
+   "Thứ hai, hình thức thuyết trình hay gặp trong môn tin học là [[giảng giải]]. Trong hình thức này, lời nói thường dùng để [[lập luận, dẫn dắt tìm tòi, giải thích, chứng minh]]. Khác với môn Ngữ văn ([[cần từ ngữ hình tượng]]), môn Tin học đòi hỏi giáo viên phải dùng lời nói [[cực kỳ chính xác, mạch lạc và có tính logic cao]].",
+   "Ví dụ: Khi giải thích việc căn chỉnh vật thể như 1 bảng chứa thông tin ra giữa màn hình trong thiết kế web, người giáo viên phải [[giải thích từng bước chặt chẽ]] ([[khai báo style ở phần head]], [[class của table phải được gõ đúng trong style]], dùng display:flex phải chú ý tới [[trục chính và trục phụ]] để có thể căn bảng theo ý muốn của mình…) [[tránh dùng từ ngữ mơ hồ, chung chung]], mang tính học thuật cao.",
+   "Thứ ba, hình thức trực quan được sử dụng rộng rãi nhất trong môn tin học là [[trực quan tượng trưng]]. Vì đây là [[một dạng “ngôn ngữ”]], học sinh phải được học, luyện tập thì mới hiểu và sử dụng được. Cần dạy học sinh cách [[“viết chính tả” sơ đồ khối]] (vẽ theo mô tả bằng lời) và [[“đọc sơ đồ khối”]] (dùng lời mô tả lại thuật toán).",
+   "Ví dụ: Tập đọc sơ đồ khối: Giáo viên đưa ra sơ đồ khối gồm một [[hình thoi chứa điều kiện]] điểm >= 5 và hai nhánh rẽ (Đúng: hiện chữ \"Đạt\", Sai: hiện chữ \"Trượt\"). Học sinh phải [[dùng lời nói để diễn giải lại sơ đồ]] đó: \"Nếu [[điều kiện điểm lớn hơn hoặc bằng 5 thỏa mãn]] thì chương trình thực hiện nhánh in ra chữ Đạt, [[ngược lại sẽ thực hiện nhánh in ra chữ Trượt]]\".",
+   "Thứ tư, một hình thức củng cố có một vai trò rất quan trọng trong môn tin học là [[thực hành, củng cố]]. Học tin học ở phổ thông chủ yếu là [[học sử dụng máy tính điện tử]], kể cả việc bước đầu làm quen với ngôn ngữ lập trình bậc cao. Vì vậy [[lí thuyết và thực hành, ứng dụng]] phải liên hệ mật thiết với nhau, phối hợp với nhau và [[diễn ra trong 1 quá trình thống nhất]].",
+   "Ví dụ: Ngay sau khi giáo viên giảng xong lý thuyết về câu lệnh điều kiện if...else ([[khoảng 10-15 phút]]), học sinh cần được [[ngồi máy tính thực hành]] viết ngay một đoạn chương trình nhỏ [[kiểm tra số chẵn/lẻ]] để [[kiểm chứng lại lý thuyết]] đó."
+  ]
+ },
+ {
+  "t": "Câu 4 · Mục tiêu bài học & 3 lưu ý",
+  "m": "Sau – Hướng – Tâm (đạt SAU khi học, căn cứ định hướng, nêu trọng tâm)",
+  "s": [
+   "Mục tiêu bài học cần được [[cụ thể hóa]] để người nhà giáo có [[một định hướng rõ ràng, chính xác]] khi dạy học một bài học nào đó. Cách cụ thể hóa tốt nhất đó là cố gắng [[hoạt động hóa mục tiêu]], tức là chỉ ra [[những hoạt động tương thích với nội dung và mục tiêu]] mà học sinh có thể thực hiện để [[thể hiện mức độ đạt mục tiêu]].",
+   "## Các lưu ý đối với mục tiêu của tiết học\nThứ nhất: Đây là những yêu cầu mà học sinh cần đạt được [[sau khi học tập một bài]] chứ [[không phải là trong khi học tập một bài]].",
+   "Ví dụ: Sau khi học xong, học sinh [[nêu được cú pháp và ý nghĩa các thông số]] trong câu lệnh [[do…while]] (Đây là [[năng lực học sinh sở hữu sau khi học xong]]).",
+   "Thứ hai: Các mục tiêu là căn cứ để thầy giáo [[xác định hướng bài học]] và [[hình dung được kết quả dạy học]] bài đó chứ [[không đòi hỏi]] họ tiết nào cũng phải kiểm tra để kết luận chính xác học sinh có đạt được từng mục tiêu đề ra hay không. Trên thực tế người nhà giáo [[không thể có đủ thời gian]] để làm như vậy.",
+   "Ví dụ: Trong 1 tiết học, ta đặt ra 5 mục tiêu cụ thể ([[nhận biết, phân biệt, mô phỏng, viết mã, sửa lỗi]]). Ta [[không nhất thiết phải gọi từng học sinh]] trong lớp lên để kiểm tra đủ cả 5 mục tiêu đó ngay tại lớp, ta chỉ cần [[quan sát nhanh 1 vài học sinh]], cho [[1-2 bài tập đại diện]] hoặc [[kiểm tra qua bài tập về nhà]] để hình dung mức độ tiếp thu chung của cả lớp",
+   "Thứ ba: Sau khi đã liệt kê các mục tiêu cụ thể, bài soạn cần [[nêu rõ trọng tâm]], chỉ ra đâu là [[kiến thức, kĩ năng then chốt nhất]] để tập chugn giảng dạy, [[tránh ôm đồm, dàn tràn mục tiêu]] trong một tiết học",
+   "Ví dụ: Khi dạy bài thẻ tạo danh sách trong html, ta có mục tiêu cụ thể như:\n• Học sinh [[hiểu khái niệm danh sách]] trong trang web\n• [[Viết đúng cú pháp các thẻ]] <ul>, <ol>, <li>\n• Phân biệt được [[danh sách có thứ tự]] <ol> và [[danh sách không thứ tự]] <ul>",
+   "## Trọng tâm tiết học:\nTrọng tâm của tiết học này chỉ tập trung giúp học sinh [[nắm chắc cú pháp]] và [[phân biệt được cách dùng thẻ]] <ol> và <ul> để tạo danh sách cơ bản. Tránh việc cố gắng dạy hết từ các cú pháp cơ bản, thộc tính trang trí<style>, [[danh sách lồng nhau phức tạp]]… trong 1 tiết, học sinh sẽ [[bị quá tải]] và không nắm chắc phần nào."
+  ]
+ },
+ {
+  "t": "Câu 5 · Mục tiêu dạy Tin học phổ thông",
+  "m": "KIẾN THỨC (4 tri thức) – KĨ NĂNG (4 hoạt động trí tuệ) – THÁI ĐỘ (3 mặt)",
+  "s": [
+   "Việc dạy học môn Tin học ở trường phổ thông nhằm đạt [[3 nhóm mục tiêu]] sau:",
+   "## 1. Về kiến thức\n• Trang bị cho học sinh kiến thức cơ bản về Tin học: [[hệ thống, thuật toán, ngôn ngữ lập trình, cơ sở dữ liệu và hệ quản trị cơ sở dữ liệu]].\n• Giúp học sinh biết [[các ứng dụng phổ biến của công nghệ thông tin trong đời sống]].",
+   "• Hình thành 4 dạng tri thức:\n[[Tri thức sự vật]]: Các khái niệm, sự vật, hiện tượng trong Tin học. [[Tri thức phương pháp]]: Các phương pháp, thuật toán giải quyết vấn đề. [[Tri thức chuẩn]]: Các quy tắc, chuẩn mực, chẳng hạn [[quy tắc viết chương trình]].\n[[Tri thức giá trị]]: Nhận thức được vai trò, giá trị của Tin học trong khoa học và đời sống.",
+   "## 2. Về kĩ năng\n• Biết sử dụng [[máy tính và mạng máy tính]] phục vụ học tập, bước đầu vận dụng vào cuộc sống.\n• Rèn luyện kĩ năng trên [[3 bình diện]]:\nVận dụng tri thức trong [[nội bộ môn Tin học]].\nVận dụng tri thức Tin học vào [[các môn học khác]].\nVận dụng Tin học [[vào đời sống]].",
+   "## Rèn luyện 4 hoạt động trí tuệ cơ bản:\n[[Phân tích]]: [[Tách một hệ thống thành các bộ phận]].\n[[Tổng hợp]]: [[Liên kết các bộ phận thành một hệ thống]].\n[[Trừu tượng hóa]]: Tách đặc điểm bản chất khỏi đặc điểm không bản chất. [[Khái quát hóa]]: [[Rút ra đặc điểm chung từ nhiều đối tượng]].",
+   "## 3. Về thái độ\n[[Phong cách làm việc khoa học]]: [[Hợp lí, chính xác, cẩn thận, kiên trì, sáng tạo, có kế hoạch và trách nhiệm]].\n[[Thế giới quan duy vật biện chứng]]: Giúp học sinh nhận thức [[mối liên hệ, sự vận động và phát triển]] của các sự vật, hiện tượng.",
+   "[[Phẩm chất đạo đức]]: Bồi dưỡng [[tính kỉ luật, tinh thần trách nhiệm, thái độ phê phán và ý thức tuân thủ quy tắc]]. Giáo viên cần [[căn cứ vào nội dung bài học và tình hình học sinh]] để giáo dục thái độ, phẩm chất phù hợp, [[tránh ôm đồm quá nhiều mục tiêu]] trong một tiết học.",
+   "Kết luận: Ba nhóm mục tiêu kiến thức, kĩ năng và thái độ có mối quan hệ [[mật thiết, hỗ trợ và bổ sung cho nhau]], góp phần [[hình thành năng lực, phẩm chất và thế giới quan]] cho học sinh. Vì vậy, giáo viên cần [[kết hợp trang bị kiến thức, rèn luyện kĩ năng và giáo dục thái độ]] trong quá trình dạy học Tin học."
+  ]
+ },
+ {
+  "t": "Câu 6 · Vừa sức & yêu cầu phát triển",
+  "m": "Nội dung (vừa sức + nâng yêu cầu) → Cơ sở (Vưgốtxki) → Ví dụ (kéo thả → phân loại)",
+  "s": [
+   "## Nội dung nguyên tắc\nViệc dạy học một mặt phải [[đảm bảo tính vừa sức]] để học sinh có thể tiếp thu tri thức, [[rèn luyện kỹ năng, kỹ xảo]]; mặt khác phải [[không ngừng nâng cao yêu cầu]] để [[thúc đẩy sự phát triển của học sinh]].",
+   "Hai mặt này tuy có vẻ mâu thuẫn nhưng [[thực chất thống nhất với nhau]]. Vừa sức không có nghĩa là [[quá dễ hay quá khó]], mà phải [[phù hợp với trình độ và năng lực của học sinh]]. Khi trình độ, năng lực của học sinh tăng lên thì [[yêu cầu học tập cũng cần được nâng cao]]. Vì vậy, không ngừng nâng cao yêu cầu chính là đảm bảo tính vừa sức trong điều kiện học sinh [[ngày càng phát triển]].",
+   "## Cơ sở thực hiện\nViệc đảm bảo nguyên tắc này có thể dựa trên lý thuyết [[vùng phát triển gần nhất]] của [[Vưgốtxki]].",
+   "Theo lý thuyết này, nhiệm vụ học tập phải [[phù hợp với trình độ hiện tại của học sinh]], [[không quá xa khả năng của các em]], nhưng vẫn đòi hỏi các em [[tích cực suy nghĩ và nỗ lực]] mới hoàn thành được.",
+   "Thông qua quá trình học tập, những [[kiến thức và kỹ năng mới dần trở thành năng lực]] của học sinh. Từ đó, các em tiếp tục thực hiện những [[nhiệm vụ khó hơn]] và [[phát triển từng bước]].",
+   "## Ví dụ minh họa trong dạy học môn Tin học\nTrong [[bài thực hành sử dụng thiết bị số]], giáo viên yêu cầu học sinh [[sắp xếp các biểu tượng trên màn hình máy tính]] sao cho [[gọn gàng, thuận tiện hơn]].",
+   "[[Mức vừa sức]]: Học sinh sử dụng [[thao tác kéo thả]] để sắp xếp lại các biểu tượng trên màn hình.",
+   "[[Mức phát triển]]: Giáo viên yêu cầu học sinh [[phân loại biểu tượng theo nhóm]] như học tập, giải trí; [[giải thích cách sắp xếp và so sánh]] các cách bố trí khác nhau.",
+   "Như vậy, học sinh [[vừa thực hiện được nhiệm vụ phù hợp với khả năng]], [[vừa được nâng cao yêu cầu]] để phát triển [[kiến thức, kỹ năng và tư duy]]."
+  ]
+ }
+]
